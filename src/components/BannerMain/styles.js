@@ -49,6 +49,7 @@ ContentAreaContainer.Description = styled.p`
   @media (max-width: 800px) {
     display: none;
   }
+  color: #DEDEDE; 
 `;
 
 ContentAreaContainer.Title = styled.h2`

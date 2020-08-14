@@ -1,0 +1,158 @@
+{
+  "categorias": [
+    {
+      "titulo": "Arte e Cotidiano",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Aqui você encontra relações artíticas com quase tudo do seu dia a dia",
+        "url": "https://www.youtube.com/c/QuadroemBranco/"
+      },
+      "videos": [
+        {
+          "titulo": "a obsessão utópica de Van Gogh",
+          "url": "https://www.youtube.com/watch?v=MFcWwU4Ye5E&t=2s",
+          "descricao": "O Van Gogh era muito interessado no Japão, a influência da arte e da filosofia japonesa no trabalho dele é enorme, e essa influência que inicialmente é mais uma fascinação estranha, imitação e uma reprodução dos métodos, com o tempo, assume uma significação emocional, algo mais... forte. Vem com a gente entender um pouquinho do nosso pós-impressionista favorito!"
+        },
+        {
+          "titulo": "Quero me tornar uma pessoa gentil",
+          "url": "https://www.youtube.com/watch?v=pVpMWi-x1GY&t=15s"
+        },
+        {
+          "titulo": "O mestre do horror repulsivo",
+          "url": "https://www.youtube.com/watch?v=j2oJgnN6aDk"
+        },
+        {
+          "titulo": "Estrangeirismo, assimetria e (surpreendentemente) perfeição",
+          "url": "https://www.youtube.com/watch?v=YzuPY18GEqU"
+        },
+        {
+          "titulo": "Thanos, Empatia e o Minotauro de Borges",
+          "url": "https://www.youtube.com/watch?v=Vt0JVES9YPg"
+        },
+        {
+          "titulo": "Rick and Morty | Übermensch e o Vazio Existencial",
+          "url": "https://www.youtube.com/watch?v=BJnXA1Il64g"
+        },
+        {
+          "titulo": "Sulicídio | Baco, Matrix, e a Jornada do Herói",
+          "url": "https://www.youtube.com/watch?v=zQt23YR0reY"
+        },
+        {
+          "titulo": "Rincon faz com a dança o que Beli Remour e Makalister fazem com as palavras",
+          "url": "https://www.youtube.com/watch?v=15T9gbxeSFs&t=220s"
+        }        
+      ]
+    },
+    {
+      "titulo": "Arte Abstrata",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Como entender arte abstrata",
+        "url": "https://www.youtube.com/watch?v=eAXzAnRT23k&list=LL&index=13&t=0s"
+      },
+      "videos": [
+        {
+          "titulo": "Como entender arte abstrata",
+          "url": "https://www.youtube.com/watch?v=eAXzAnRT23k&list=LL&index=13&t=0s"
+        },
+        {
+          "titulo": "NEOPLASTICISMO, DE STIJL E BAUHAUS",
+          "url": "https://www.youtube.com/watch?v=3LrEXxN98Ic"
+        },
+        {
+          "titulo": "Pollock - O pai do expressionismo abstrato",
+          "url": "https://www.youtube.com/watch?v=VFlLNA642cU&t=1s"
+        },
+        {
+          "titulo": "WASSILY KANDINSKY - 50 FATOS #VIVIEUVI",
+          "url": "https://www.youtube.com/watch?v=OwHvlnQtjnI"
+        }, 
+        {
+          "titulo": "ARTE ABSTRATA | Como entender o que ninguém sabe explicar",
+          "url": "https://www.youtube.com/watch?v=TPZl3ZgmOus"
+        },
+        {
+          "titulo": "How Art Arrived At Jackson Pollock",
+          "url": "https://www.youtube.com/watch?v=Q1irNBh2qg8"
+        },
+        {
+          "titulo": "O que é arte abstrata? Abstração lírica X geométrica",
+          "url": "https://www.youtube.com/watch?v=9kz5yHNP3Y0"
+        }
+      ]
+    },
+    {
+      "titulo": "Artistas",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Clique aqui e aproveite a tsunami (é claro que to falando de hokusai)",
+        "url": "https://www.youtube.com/watch?v=xuV20yRZ7lQ"
+      },
+      "videos": [
+        {
+          "titulo": "Fauvismo, primitivismo?! | Os começos de Picasso em Paris | Matisse | #lendoarte [4]",
+          "url": "https://www.youtube.com/watch?v=sq5B3iGfLKM"
+        },
+        {
+          "titulo": "Fauvismo, primitivismo?! | Os começos de Picasso em Paris | Matisse | #lendoarte [4]",
+          "url": "https://www.youtube.com/watch?v=sq5B3iGfLKM"
+        },
+        {
+          "titulo": "MARINA ABRAMOVIĆ - 50 FATOS #VIVIEUVI",
+          "url": "https://www.youtube.com/watch?v=mITn2SgvHSc"
+        },
+        {
+          "titulo": "Basquiat - Traços de uma vida",
+          "url": "https://www.youtube.com/watch?v=-i1t-MF5MuA&t=3799s"
+        },
+        {
+          "titulo": "How to understando A Picasso?",
+          "url": "https://www.youtube.com/watch?v=_HGW1DQO1xQ"
+        },
+        {
+          "titulo": "TARSILA DO AMARAL - 50 FATOS #VIVIEUVI",
+          "url": "https://www.youtube.com/watch?v=0oL8_Yl48qw"
+        },
+        {
+          "titulo": "Willem de Kooning: A Way of Living",
+          "url": "https://www.youtube.com/watch?v=tFJxdZKl5Yo"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a pintar",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Em memória ao nosso grande mestre Bob Ross",
+        "url": "https://www.youtube.com/watch?v=zIbR5TAz2xQ"
+      },
+      "videos": [
+        {
+          "titulo": "Aula de Pintura com o Prof. Costerus - Dicas e Técnicas Iniciais - Tema Marinha",
+          "url": "https://www.youtube.com/watch?v=8mb7ZAD1-F8"
+        },
+        {
+          "titulo": "Bob Ross - How to happy",
+          "url": "https://www.youtube.com/watch?v=zIbR5TAz2xQ"
+        },
+        {
+          "titulo": "Aula de Pintura com o Prof. Costerus - Dicas e Técnicas Iniciais - Tema Marinha",
+          "url": "https://www.youtube.com/watch?v=8mb7ZAD1-F8"
+        },
+        {
+          "titulo": "Bob Ross - Trail's End",
+          "url": "https://www.youtube.com/watch?v=XWQrP-WiLgc&t=296s"
+        },
+        {
+          "titulo": "Preparação de Telas - Pintura Sem Frescura",
+          "url": "https://www.youtube.com/watch?v=tTmExk6CWoI"
+        },
+        {
+          "titulo": "Bob Ross - Winter's Peace",
+          "url": "https://www.youtube.com/watch?v=Xzv3iiWi1Wo"
+        }
+      ]
+    }
+  ]
+}
